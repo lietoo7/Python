@@ -1,4 +1,4 @@
-# Python
+# Python - Programmation
 ### Cours dans l'ordre :
 - [La console Python](LaConsole.md)
 - [Les types de données](TypesOfData.md)
@@ -8,3 +8,4 @@
   - [Les tableaux de dictionnaires](TableauxEtDictionnaires.md)
     - [TP: Etude démographique de la communauté de communes Pévéloises](EXOetudecommunedefrance.md)
 - [Conditionals and Iteration](Conditionals&Iteration.md)
+- [Fonctions](fonctions.md)
