@@ -1,9 +1,10 @@
 # Python
 ### Cours dans l'ordre :
-* 1 : [les tableaux](Les_tableaux.md)
+* [La console Python](LaConsole.md)
+* [les tableaux](Les_tableaux.md)
 
   | [TP: pratique des tableaux](3ProjetsSurTableaux.md)
-* 2 : [les dictionnaires](Les_dictionnaires.md)
-* 3 : [les tableaux de dictionnaires](TableauxEtDictionnaires.md)
+* [les dictionnaires](Les_dictionnaires.md)
+* [les tableaux de dictionnaires](TableauxEtDictionnaires.md)
 
   | [TP: Etude démographique de la communauté de communes Pévéloises](EXOetudecommunedefrance.md)
