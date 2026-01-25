@@ -192,6 +192,4 @@ Un tuple est une séquence d'objets arbitraires séparés par des virgules. Ils 
 >>> a, b = b, a # Échange de variables en une ligne (Pythonique)
 
 ```
----
 
-Souhaitez-vous que je poursuive la traduction avec la section sur le module `collections` ou que j'approfondisse un exemple spécifique de cet extrait ?
