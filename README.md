@@ -1,5 +1,5 @@
 # Python
 Cours dans l'ordre :
-[les tableaux]()
-[les dictionnaires]()
-[les tableaux de dictionnaires]()
+*** [les tableaux](Les_tableaux.md)
+*** [les dictionnaires](Les_dictionnaires.md)
+*** [les tableaux de dictionnaires]()
