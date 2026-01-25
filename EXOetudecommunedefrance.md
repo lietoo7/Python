@@ -125,5 +125,3 @@ print(f"Ville la moins peuplée : {ville_moins_peuplee(communautePevele)}")
 print(f"Moyenne d'habitants par unité de surface : {moyenne_habitants_km2(communautePevele):.2f}")
 
 ```
-
-Est-ce que la logique du parcours de liste avec les dictionnaires est plus claire pour vous ? Seriez-vous capable de rajouter une fonction qui cherche une ville par son nom ?
